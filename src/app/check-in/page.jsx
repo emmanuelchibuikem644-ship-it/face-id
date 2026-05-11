@@ -70,7 +70,7 @@ export default function CheckInPage() {
                 Capture Face
               </button>
             </div>
-          )}
+          )}   
         </div>
 
         {/* RIGHT SIDE */}
