@@ -11,6 +11,7 @@
   "dependencies": {
     "@mediapipe/camera_utils": "^0.3.1675466862",
     "@mediapipe/face_detection": "^0.4.1646425229",
+    "@vladmandic/face-api": "^1.7.15",
     "face-api.js": "^0.22.2",
     "framer-motion": "^12.38.0",
     "lucide-react": "^1.7.0",
